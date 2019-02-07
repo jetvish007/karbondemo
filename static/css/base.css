@@ -1,0 +1,87 @@
+html {
+  background: url("../images/base.png") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+h1{
+  text-align: center;
+  padding-right: 100px;
+  color: green;
+}
+h2{
+  text-align: right;
+  padding-right: 200px;
+  color: Green;
+}
+#signupDiv,#tab{
+  padding-right: 100px;
+  align: right
+}
+#login{
+  padding-right: 350px;
+}
+#tab{
+  padding-top: 150px;
+  align: right
+}
+button{
+  background-color: green;
+        color: #FFFFFF;
+        padding: 10px;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        margin:10px
+}
+.button{
+  background-color: green;
+        color: #FFFFFF;
+        padding: 10px;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        margin:10px
+}
+select {
+   background: no-repeat 96% 0;
+   height: 29px;
+   overflow: hidden;
+   width: 240px;
+}
+input{
+  background: no-repeat 96% 0;
+  height: 29px;
+  overflow: hidden;
+  width: 240px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: green;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+.hero {
+  opacity: 0.6;
+  padding-top: 50px;
+}

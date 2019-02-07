@@ -1,0 +1,12 @@
+html {
+  background: url("../images/base.png") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+h1{
+  text-align: right;
+  padding-right: 100px;
+  color: green;
+}
